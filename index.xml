@@ -53,10 +53,22 @@ administration</role>
 </name>
 <string-name>Rowan Cockett</string-name>
 
-<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="aff" rid="aff-2">b</xref>
 </contrib>
 </contrib-group>
 <aff id="aff-1">
+<institution-wrap>
+<institution>resn.dev</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<aff id="aff-2">
 <institution-wrap>
 <institution>Curvenote</institution>
 </institution-wrap>
@@ -279,10 +291,22 @@ administration</role>
 </name>
 <string-name>Rowan Cockett</string-name>
 
-<xref ref-type="aff" rid="aff-1-nb-article">a</xref>
+<xref ref-type="aff" rid="aff-2-nb-article">b</xref>
 </contrib>
 </contrib-group>
 <aff id="aff-1-nb-article">
+<institution-wrap>
+<institution>resn.dev</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<aff id="aff-2-nb-article">
 <institution-wrap>
 <institution>Curvenote</institution>
 </institution-wrap>
